@@ -15,9 +15,12 @@ Characters
 func
 
 **What symbol means 'is of type'?**
-
+A colon ':'
 **What does 'Int' mean?**
-
 Integer
 
 **How do you print out a variable or function in the debug area?**
+func bio(){
+print("My name is \(self.name), I am \(self.age) from Bournemouth")
+
+}
