@@ -7,7 +7,7 @@ Using {} brackets will create a class, if brackets do not connect the class beco
 A variable can change and a constant cannot.
 
 **What must you do after creating a variable?**
-
+Declare it
 **What does the word 'string' mean?**
 Characters
 
